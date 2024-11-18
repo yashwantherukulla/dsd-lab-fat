@@ -1,4 +1,3 @@
-# DSD LAB FAT CODES
 ## 1. Random Sequence Counter
 
 ```verilog
